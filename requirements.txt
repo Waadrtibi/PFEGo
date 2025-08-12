@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-rich
-markdown-it-py
-mdurl
-pygments
+streamlit==1.24.1
+pandas==2.0.3
+numpy==1.25.2
+rich==14.1.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pygments==2.19.2
